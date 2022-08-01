@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for
-
+# <body style="color:#ff1c36">Страничка обо мне!:)</body>
 
 app = Flask(__name__)
 

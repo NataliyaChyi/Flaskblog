@@ -1,0 +1,10 @@
+body {
+background:#66cc66
+}
+.fon_text {
+background:#339933;
+color:#ffffff
+}
+# Хочу поставить картинку на заставку = не выходит... как?
+
+<body style="background-image:url_for('static', filename='css/img_3.jpg')"></body>
